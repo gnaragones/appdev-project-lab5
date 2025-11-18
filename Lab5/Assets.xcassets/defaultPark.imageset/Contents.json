@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "070225-National-Park-Summer-Rocky-Mountains-GettyImages-1726907904.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
